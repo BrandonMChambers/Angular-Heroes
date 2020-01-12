@@ -20,4 +20,5 @@ export class HeroesComponent implements OnInit {
     this.selectHero
   }
 
+  
 }
